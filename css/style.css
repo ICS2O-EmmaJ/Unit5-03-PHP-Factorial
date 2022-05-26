@@ -1,0 +1,21 @@
+/* Created by: Emma Janani
+* Created on: Mar 2022
+* This CSS file defines the style for index.php
+* ICS2O-Unit5-03-PHP-Factorial
+*/
+
+body {
+	background-color: rgb(181, 190, 227);
+}
+
+h1 {
+	background-color: rgb(150, 149, 234);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+#display-results{
+  background-color: #ce88bb;
+	font-size: 20px;
+}
